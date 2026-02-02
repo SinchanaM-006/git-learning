@@ -1,1 +1,2 @@
 hi there
+im now editing it and commiting on github making this origin/main on github forward and main on my pc behind
